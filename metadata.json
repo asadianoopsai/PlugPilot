@@ -1,0 +1,6 @@
+{
+  "name": "PlugPilot",
+  "description": "Electronics learning and project-building platform for sensors, microcontrollers, Arduino, ESP32, and guided hardware engineering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
